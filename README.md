@@ -19,6 +19,7 @@ This repository serves as a structured knowledge base for individuals entering t
 - [Workflow](#workflow)
 - [Rabbit Holes](#rabbit-holes)
 - [Obscure Resources](#obscure-resources)
+- [Starter Projects](#starter-projects)
 - [Future Improvements](#future-improvements)
 
 ---
@@ -76,27 +77,27 @@ These examples show how both technical and human factors play a role in modern i
 A basic OSINT and cybersecurity workflow based on the tools and resources in this repository:
 
 1. Define the Objective  
-   - Identify what you are trying to investigate (person, domain, event, or threat)
+   Identify what you are trying to investigate (person, domain, event, or threat)
 
 2. Passive Data Collection  
-   - Use OSINT tools to gather publicly available information  
-   - Avoid direct interaction with the target  
+   Use OSINT tools to gather publicly available information  
+   Avoid direct interaction with the target  
 
 3. Data Enrichment  
-   - Expand findings using multiple tools  
-   - Correlate emails, domains, usernames, and infrastructure  
+   Expand findings using multiple tools  
+   Correlate emails, domains, usernames, and infrastructure  
 
 4. Verification  
-   - Cross-check multiple sources  
-   - Validate images, locations, and timelines  
+   Cross-check multiple sources  
+   Validate images, locations, and timelines  
 
 5. Analysis  
-   - Identify patterns, anomalies, or relationships  
-   - Build a narrative based on evidence  
+   Identify patterns, anomalies, or relationships  
+   Build a narrative based on evidence  
 
 6. Reporting  
-   - Document findings clearly  
-   - Include sources and methodology  
+   Document findings clearly  
+   Include sources and methodology  
 
 This workflow reflects how real-world OSINT investigations and cybersecurity analysis are conducted.
 
@@ -120,10 +121,23 @@ These areas represent evolving challenges and opportunities in the field.
 This repository includes lesser-known but valuable resources such as:
 
 - OSINT newsletters  
-- Alternative social platforms like Mastodon  
+- Alternative social platforms  
 - Niche GitHub repositories  
 
 These resources often provide early access to tools and insights before they become widely known.
+
+---
+
+## Starter Projects
+
+These projects are designed to help apply OSINT and cybersecurity concepts in practical scenarios.
+
+- Conduct an OSINT investigation using publicly available data  
+- Perform passive reconnaissance on a domain using OSINT tools  
+- Build a basic phishing detection approach using patterns or machine learning  
+- Perform identity pivoting using tools like Melissa to expand limited data  
+
+These projects help develop skills in data collection, validation, analysis, and reporting.
 
 ---
 
