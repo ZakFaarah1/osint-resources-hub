@@ -27,7 +27,7 @@ https://www.youtube.com/@DEFCONConference
 ## OSINT-Focused Events
 
 ### SANS OSINT Summit
-- https://www.sans.org/cyber-security-training-events/osint-summit/
+- https://www.sans.org/blog/a-visual-summary-of-sans-osint-summit-2025
 - Focus on practical OSINT techniques
 
 ---
